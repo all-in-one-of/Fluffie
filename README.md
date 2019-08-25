@@ -1,8 +1,8 @@
 # [https://github.com/all-in-one-of/Fluffie/blob/master/Extras/Text.hiplc](https://github.com/all-in-one-of/Fluffie/blob/master/Extras/Text.hiplc)
 
 # Fluffie
-https://github.com/all-in-one-of/Fluffie/blob/master/Extras/Text.hiplc
-!https://github.com/all-in-one-of/Fluffie/blob/master/Extras/Text.hiplc[gif](https://i.imgur.com/KVSWLVT.gif)
+
+![gif](https://i.imgur.com/KVSWLVT.gif)
 ![gif](https://i.imgur.com/n3DtgdC.gif)
 
 How to play with this thing
